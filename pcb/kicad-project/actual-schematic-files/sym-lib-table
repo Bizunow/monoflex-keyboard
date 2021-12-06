@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Monoflex601-rescue")(type "Legacy")(uri "${KIPRJMOD}/Monoflex601-rescue.lib")(options "")(descr ""))
-)
